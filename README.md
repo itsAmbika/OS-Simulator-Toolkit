@@ -1,4 +1,4 @@
-# 🖥️ OS Simulator Toolkit
+# OS Simulator Toolkit
 
 A comprehensive **Operating System Simulator** built in C++17 that demonstrates core OS concepts through interactive console-based modules. Perfect for computer science students and educators to understand operating system algorithms hands-on.
 
